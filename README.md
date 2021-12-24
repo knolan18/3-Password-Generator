@@ -6,5 +6,6 @@ In this assignment, a random password generator was created. The generator promp
 
 This image shows the completed assignment's appearance, and functionality:
 
+!(./assets/images/screenshot.png)
 
 ## Link to Deployed Site
